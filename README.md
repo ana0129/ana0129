@@ -5,7 +5,7 @@
 
 <h1>Seja bem-vindo(a) ao meu Github!
 <p>Eu sou estudante do Ensino-Médio e curso Desenvolvimento de sistemas.
-![image](https://github.com/user-attachments/assets/662a8662-0d68-4e61-b545-5eb1a460558b)
+https://blog.brq.com/wp-content/uploads/sites/3/2022/10/Computacao-em-nuvem-2048x1366.jpeg
 
 
 -->
