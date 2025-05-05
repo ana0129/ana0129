@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ana0129/ana0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 Atualmente estou estudando React, HTML and CSS
 - 📫 How to reach me: Instagram @aninha_sf16
 
