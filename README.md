@@ -4,10 +4,10 @@
 - 📫Instagram: @aninha_sf16
 
 
-<h1>Eu sou estudante do Ensino-Médio e 
-  atualmente curso Desenvolvimento de sistemas.</h1>
+<h1>Desenvolvimento de sistemas</h1>
+<h1>Estudante</h1>
 
 
 
 
--->
+
